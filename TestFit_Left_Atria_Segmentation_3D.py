@@ -1036,10 +1036,10 @@ post_transforms = Compose(
 
 if 1:
     net = get_net().to(device)  
-    net.load_state_dict(torch.load(os.path.join(root_dir, "best_metric_model_hrnet_heart.pth")))
+    net.load_state_dict(torch.load(os.path.join(root_dir, "model_hrnet_heart.pth")))
     net.train()
     OGNet = get_net().to(device)
-    OGNet.load_state_dict(torch.load(os.path.join(root_dir, "best_metric_model_hrnet_heart.pth")))
+    OGNet.load_state_dict(torch.load(os.path.join(root_dir, "model_hrnet_heart.pth")))
     OGNet.eval()
     optimizer = torch.optim.SGD(net.parameters(), 1e-5)
 
