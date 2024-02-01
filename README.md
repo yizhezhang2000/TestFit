@@ -11,9 +11,9 @@ ISSN 1361-8415,
 https://doi.org/10.1016/j.media.2023.103069.
 
 #
-This repository provides the core code for the proposed TestFit method, with an example included. Simply run the .py code for TestFit.
+This repository provides the core code for the proposed TestFit method, with an example included. Simply run the TestFit_Left_Atria_Segmentation_3D.py code for an example using the TestFit.
 
-The model used in the script can be found in
+The model used in the above script can be found in
 
 https://drive.google.com/file/d/12-UKOBs883eGl2kGAkC74lYYPC75vev2/view?usp=drive_link
 
