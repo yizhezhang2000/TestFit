@@ -10,7 +10,7 @@ Volume 92,
 ISSN 1361-8415,
 https://doi.org/10.1016/j.media.2023.103069.
 
-full pdf can be found at https://www.researchgate.net/publication/376840801_TestFit_A_plug-and-play_one-pass_test_time_method_for_medical_image_segmentation
+Pdf of the paper can be found at https://www.researchgate.net/publication/376840801_TestFit_A_plug-and-play_one-pass_test_time_method_for_medical_image_segmentation.
 
 #
 This repository provides the core code for the proposed TestFit method, with an example included. Simply run the TestFit_Left_Atria_Segmentation_3D.py code for an example using the TestFit.
