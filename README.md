@@ -15,7 +15,7 @@ PDF of the paper can be found at https://www.researchgate.net/publication/376840
 #
 This repository provides the core code for the proposed TestFit method, with an example included. Simply run the TestFit_Left_Atria_Segmentation_3D.py for the example using the TestFit.
 
-The model used in the above script can be found in
+The weights of the model used in the above script can be obtained at
 
 https://drive.google.com/file/d/12-UKOBs883eGl2kGAkC74lYYPC75vev2/view?usp=drive_link
 
